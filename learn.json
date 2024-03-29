@@ -1,0 +1,18 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "$bathroom_bedroom_overlap": "1",
+            "$br_height_A": "4",
+            "$br_height_B": "5",
+            "$br_width": "5",
+            "$btr_height": "2",
+            "$btr_width": "3",
+            "$eps": "0.001",
+            "$kt_height": "3",
+            "$kt_width": "3",
+            "$lr_height": "8",
+            "$lr_width": "5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
